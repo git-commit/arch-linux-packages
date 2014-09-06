@@ -1,0 +1,21 @@
+### https://raw.github.com/github/gitignore/master/Global/vim.gitignore
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+#Package specific
+tiddlydesktop/tiddlydesktop-linux64*.zip
+tiddlywiki/empty.html
+atlauncher-latest/ATLauncher.jar
+
+#own additions
+src/
+pkg/
+others/
+*.pkg.tar.xz
+
+.AURINFO
