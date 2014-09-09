@@ -19,3 +19,4 @@ others/
 *.pkg.tar.xz
 .AURINFO
 *.src.tar.gz
+*.plgx
