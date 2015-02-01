@@ -17,6 +17,7 @@ src/
 pkg/
 others/
 *.pkg.tar.xz
+*.pkg.tar
 .AURINFO
 *.src.tar.gz
 *.plgx
